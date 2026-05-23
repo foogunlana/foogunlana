@@ -25,9 +25,9 @@ A few contributions to projects I care about:
 
 ## Currently interested in
 
-- AI safety & mechanistic interpretability
 - Production ML systems
 - Building tools with LLMs
+- Making safe and interpretable AI systems
 
 ## Connect
 
