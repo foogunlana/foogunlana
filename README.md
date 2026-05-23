@@ -15,6 +15,8 @@ Languages: `Python` · `TypeScript` · `Terraform/HCL` · `SQL`
 
 Cloud & data: GCP (GKE, CloudSQL, GCS) · AWS (S3, IAM) · PostgreSQL · Redis · Qdrant
 
+Scroll down to see my public contributions (_this is only a fraction of my work_)
+
 ## Press
 
 - [**Bloomberg**](https://www.bloomberg.com/news/articles/2022-10-10/serena-williams-firm-invests-in-nigerian-data-provider-stears) — Stears raises $3.3M seed backed by Serena Ventures and MaC VC
