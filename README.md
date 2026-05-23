@@ -1,4 +1,4 @@
-# Hi, I'm Foluso. AKA "Bo"
+# Hi, I'm Foluso.
 
 Co-Founder & CTO at [Stears](https://www.stears.co) — 7+ years building Africa's most comprehensive financial data platform from zero to production as a founding engineer. Based in London.
 
