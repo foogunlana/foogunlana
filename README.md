@@ -15,9 +15,15 @@ Languages: `Python` · `TypeScript` · `Terraform/HCL` · `SQL`
 
 Cloud & data: GCP (GKE, CloudSQL, GCS) · AWS (S3, IAM) · PostgreSQL · Redis · Qdrant
 
+## Press
+
+- [**Bloomberg**](https://www.bloomberg.com/news/articles/2022-10-10/serena-williams-firm-invests-in-nigerian-data-provider-stears) — Stears raises $3.3M seed backed by Serena Ventures and MaC VC
+- [**CNN**](https://edition.cnn.com/2019/02/23/africa/nigeria-election-center/index.html) — Nigeria's first real-time election database, built by Stears
+- **Harvard Business School** — Case study on Stears *(coming soon)*
+
 ## Open source
 
-A few contributions to projects I care about:
+A few recent contributions I made to tools I care about:
 
 - [airbyte](https://github.com/foogunlana/airbyte) — Paystack source connector
 - [docmost-mcp](https://github.com/foogunlana/docmost-mcp) — MCP server for Docmost
