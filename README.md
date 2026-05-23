@@ -19,7 +19,7 @@ Cloud & data: GCP (GKE, CloudSQL, GCS) · AWS (S3, IAM) · PostgreSQL · Redis �
 
 - [**Bloomberg**](https://www.bloomberg.com/news/articles/2022-10-10/serena-williams-firm-invests-in-nigerian-data-provider-stears) — Stears raises $3.3M seed backed by Serena Ventures and MaC VC
 - [**CNN**](https://edition.cnn.com/2019/02/23/africa/nigeria-election-center/index.html) — Nigeria's first real-time [election database](https://www.stears.co/elections/2023/governor/), built by Stears
-- **Harvard Business School** — Case study on Stears *(coming soon)*
+- [**Harvard Business School**](https://www.linkedin.com/posts/preston-timeyin-ideh-06484775_friday-27th-march-is-a-day-i-will-carry-ugcPost-7444778078024667136-9WC-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABYlbCwB8u0_MqCFzFbCDCMBM5fU8yOR4zg) — Case study on Stears
 
 ## Open source
 
