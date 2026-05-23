@@ -15,7 +15,7 @@ Languages: `Python` · `TypeScript` · `Terraform/HCL` · `SQL`
 
 Cloud & data: GCP (GKE, CloudSQL, GCS) · AWS (S3, IAM) · PostgreSQL · Redis · Qdrant
 
-Scroll down to see my public contributions (_this is only a fraction of my work_)
+> Scroll down to see my public contributions (_this is only a fraction of my work_)
 
 ## Press
 
