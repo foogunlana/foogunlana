@@ -4,11 +4,11 @@ Co-Founder & CTO at [Stears](https://www.stears.co) — 7+ years building Africa
 
 Most of my work lives on [GitLab](https://gitlab.com/foluso_ogunlana) (private). Here's what it looks like:
 
-- **Frontend** — React/Next.js web apps, TypeScript, Excel plugin
-- **Backend** — Django, FastAPI, Express — REST & GraphQL APIs, multi-tenant architecture, auth systems
 - **AI/ML** — LangGraph-powered deep search, ML model serving (SPLADE++, BM25), RAG pipelines, vector search (Qdrant), multi-agent systems (CrewAI)
 - **Data Engineering** — collection & enrichment pipelines, Prefect orchestration, dbt transformations, fault-tolerant batch processing
 - **Infrastructure** — Terraform IaC (GCP), Kubernetes on GKE, Helm charts, FluxCD GitOps, Docker, GitLab CI/CD
+- **Backend** — Django, FastAPI, Express — REST & GraphQL APIs, multi-tenant architecture, auth systems
+- **Frontend** — React/Next.js web apps, TypeScript, Excel plugin
 - **Distributed Systems** — scaled the platform with Kubernetes to handle millions of requests and active users per minute at peak
 
 Languages: `Python` · `TypeScript` · `Terraform/HCL` · `SQL`
