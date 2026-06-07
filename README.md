@@ -33,9 +33,9 @@ A few recent contributions I made to tools I care about:
 
 ## Currently interested in
 
-- Production ML systems
+- Production AI/ML systems
 - Building tools with LLMs
-- Making safe and interpretable AI systems
+- Alignment & Mechanistic Interpretability
 
 ## Connect
 
